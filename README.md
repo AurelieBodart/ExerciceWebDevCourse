@@ -1,2 +1,2 @@
-# CV
-CV test web dev course
+# Exercice
+Exercice web dev course
